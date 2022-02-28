@@ -1,4 +1,11 @@
-### Hi there 👋
+```js
+const name : 'Sana Kainat';
+let role:'Student';
+let passion :'Cloud Architect';
+```
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=kainatSana&show_icons=true&theme=tokyonight" 
+/>
 
 <!--
 **KainatSana/KainatSana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
