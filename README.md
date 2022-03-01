@@ -1,8 +1,13 @@
+
 ```js
 const name : 'Sana Kainat';
 let role:'Student';
 let passion :'Cloud Architect';
 ```
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <img 
    src="https://github-readme-stats.vercel.app/api?username=kainatSana&show_icons=true&theme=tokyonight" 
 />
