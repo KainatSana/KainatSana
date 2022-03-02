@@ -37,7 +37,15 @@ let hobbies :'Journel,Reading & Cooking';
 - I am a Cloud architect
 - Microsoft Learn student Ambassador 
 - Founder of MLSA UCP.
+    
+### Find me all around the web:
 
+<p align="left">
+<a href="https://twitter.com/SanaUniverse20" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/sana-kainat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png/" alt="" height="30" /></a>
+<a href="https://www.instagram.com/sana.universe/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
+</p>
 <img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" align="right"/>
 </div>
 <p align="center">
@@ -48,5 +56,8 @@ let hobbies :'Journel,Reading & Cooking';
     </p>
 <br>  
 
+### Watch my contribution graph get eaten by the snake 🐍
 
+<!-- platane/snk works, it just puts it on a new branch -->
+![kainatSana snake gif](https://github.com/kainatsana/kainatsana/blob/output/github-contribution-grid-snake.svg)
 
