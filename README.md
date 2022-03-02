@@ -31,9 +31,9 @@ let hobbies :'Journel,Reading & Cooking';
 </p>
     
 
-<br>
-<img align="right" src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" />
-
+<div>
+<img align="right" src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="220" height="220" />
+</div>
 <br>
 <p align="center">
 <a href="https://github.com/kainatsana">
