@@ -6,7 +6,7 @@
 const name : 'Sana Kainat';
 let role:'Student';
 let passion :'Cloud Architect';
-let hobbies :'Journel,Reading & Cooking';
+let hobbies :'Journaling,Reading & Cooking';
 ```
     
 
