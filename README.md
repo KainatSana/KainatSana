@@ -48,9 +48,5 @@ let hobbies :'Journel,Reading & Cooking';
     </p>
 <br>  
 
-- uses: Platane/snk@master
-  with:
-    github_user_name: ${{ github.KainatSana }}
 
-    gif_out_path: https://platane.github.io/snk/
-    svg_out_path: https://platane.github.io/snk/
+
