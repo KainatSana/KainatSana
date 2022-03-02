@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sana :sparkles:</h1>
-<img src="https://raw.githubusercontent.com/danndigital/debbie-portfolio-2021/28bef52c5fec2ddbbcd1462246f081213cec2582/public/images/sparkle.svg" width="35px" alt="sparkle" />
+<h1 align="center">Hi, I'm Sana Kainat<img src="https://github.com/KainatSana/KainatSana/blob/main/sparkle.svg" width="35px" alt="sparkle" /></h1>
+
 ```js
 const name : 'Sana Kainat';
 let role:'Student';
