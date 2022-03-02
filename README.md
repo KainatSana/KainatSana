@@ -18,7 +18,6 @@ let hobbies :'Journaling,Reading & Cooking';
 <img alt="Node js" src="https://img.shields.io/badge/node.js-rgb(232, 202, 214)?style=for-the-badge&logo=node.js&logoColor=black" >
 <img alt="C++" src="https://img.shields.io/badge/c++-rgb(209, 145, 219).svg?style=for-the-badge&logo=c%2B%2B&logoColor=black">
 <img alt="C" src="https://img.shields.io/badge/c-rgb(230, 126, 226).svg?style=for-the-badge&logo=c&logoColor=black">  
-<img alt="ubunto" src="https://img.shields.io/badge/Ubuntu-rgb(252, 179, 250)?style=for-the-badge&logo=ubuntu&logoColor=black">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=black"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=black"/>
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-rgb(232, 118, 245).svg?style=for-the-badge&logo=bootstrap&logoColor=black">   
