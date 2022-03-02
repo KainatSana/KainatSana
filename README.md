@@ -30,10 +30,11 @@ let hobbies :'Journel,Reading & Cooking';
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
 </p>
     
-
+<h1>
 <div>
 <img align="right" src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="220" height="220" />
 </div>
+</h1>
 <br>
 <p align="center">
 <a href="https://github.com/kainatsana">
