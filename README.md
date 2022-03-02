@@ -31,7 +31,7 @@ let hobbies :'Journel,Reading & Cooking';
 </p>
     
 <p>
-<img align="right" src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="250" height="250" />
+<img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" align="right" />
 </p>
 
 <p align="center">
