@@ -30,12 +30,10 @@ let hobbies :'Journel,Reading & Cooking';
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
 </p>
     
-<h1>
-<div>
-<img align="right" src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="220" height="220" />
-</div>
-</h1>
-<br>
+<p>
+<img align="right" src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="250" height="250" />
+</p>
+
 <p align="center">
 <a href="https://github.com/kainatsana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c" />
