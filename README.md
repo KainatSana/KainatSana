@@ -28,9 +28,12 @@ let hobbies :'Journel,Reading & Cooking';
 <img alt="jwt" src="https://img.shields.io/badge/JWT-rgb(255, 153, 205)?style=for-the-badge&logo=JSON%20web%20tokens">
 <img alt="jquery" src="https://img.shields.io/badge/jquery-rgb(230, 145, 188).svg?style=for-the-badge&logo=jquery&logoColor=black">
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
-
-  </p>
+</p>
     
+
+<br>
+<img align="right" src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" />
+
 <br>
 <p align="center">
 <a href="https://github.com/kainatsana">
@@ -39,7 +42,6 @@ let hobbies :'Journel,Reading & Cooking';
     </a>
     </p>
 <br>  
-
 <!--
 **KainatSana/KainatSana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
