@@ -9,9 +9,6 @@ let passion :'Cloud Architect';
 let hobbies :'Journel,Reading & Cooking';
 ```
     
-<p>
-<img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" align="right" />
-</p>
 
 <p align="center">
 <img alt="Azure" src="https://img.shields.io/badge/azure-rgb(237, 171, 247).svg?style=for-the-badge&logo=microsoftazure&logoColor=black"/>    
@@ -34,6 +31,9 @@ let hobbies :'Journel,Reading & Cooking';
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
 </p>
 
+<p>
+<img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" align="left" />
+</p>
 
 <p align="center">
 <a href="https://github.com/kainatsana">
