@@ -26,7 +26,6 @@ let hobbies :'Journaling,Reading & Cooking';
 <img alt="express" src="https://img.shields.io/badge/express.js-rgb(227, 100, 200).svg?style=for-the-badge&logo=express&logoColor=black">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23ffd2ce.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
 <img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-rgb(245, 120, 184).svg?style=for-the-badge&logo=mongodb&logoColor=black"/>
-<img alt="jwt" src="https://img.shields.io/badge/JWT-rgb(255, 153, 205)?style=for-the-badge&logo=JSON%20web%20tokens">
 <img alt="jquery" src="https://img.shields.io/badge/jquery-rgb(230, 145, 188).svg?style=for-the-badge&logo=jquery&logoColor=black">
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
 </p>
