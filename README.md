@@ -56,8 +56,9 @@ let hobbies :'Journel,Reading & Cooking';
     </p>
 <br>  
 
-### Watch my contribution graph get eaten by the snake 🐍
+<!--### Watch my contribution graph get eaten by the snake 🐍-->
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![kainatSana snake gif](https://github.com/kainatsana/kainatsana/blob/output/github-contribution-grid-snake.svg)
+<!--![kainatSana snake gif](https://github.com/kainatsana/kainatsana/blob/output/github-contribution-grid-snake.svg)-->
+
 
