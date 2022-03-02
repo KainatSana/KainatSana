@@ -30,11 +30,16 @@ let hobbies :'Journel,Reading & Cooking';
 <img alt="jquery" src="https://img.shields.io/badge/jquery-rgb(230, 145, 188).svg?style=for-the-badge&logo=jquery&logoColor=black">
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
 </p>
+<div>
+   
+- I’m currently working on myself
+- I’m currently learning about Azure
+- I am a Cloud architect
+- Microsoft Learn student Ambassador 
+- Founder of MLSA UCP.
 
-<p>
-<img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" align="left" />
-</p>
-
+<img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" align="right"/>
+</div>
 <p align="center">
 <a href="https://github.com/kainatsana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c" />
@@ -42,17 +47,10 @@ let hobbies :'Journel,Reading & Cooking';
     </a>
     </p>
 <br>  
-<!--
-**KainatSana/KainatSana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- uses: Platane/snk@master
+  with:
+    github_user_name: ${{ github.KainatSana }}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    gif_out_path: https://platane.github.io/snk/
+    svg_out_path: https://platane.github.io/snk/
