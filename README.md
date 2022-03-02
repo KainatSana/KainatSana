@@ -15,19 +15,19 @@ let hobbies :'Journel,Reading & Cooking';
 <img alt="Python" src="https://img.shields.io/badge/python-rgb(245, 132, 188)?style=for-the-badge&logo=python&logoColor=black">
 <img alt=".net" src="https://img.shields.io/badge/.NET-rgb(212, 148, 180)?style=for-the-badge&logo=.net&logoColor=black">
 <img alt="Node js" src="https://img.shields.io/badge/node.js-rgb(232, 202, 214)?style=for-the-badge&logo=node.js&logoColor=black" >
-<img alt="C++" src="https://img.shields.io/badge/c++-rgb(209, 145, 219).svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/c-rgb(230, 126, 226).svg?style=for-the-badge&logo=c&logoColor=white">  
-<img alt="ubunto" src="https://img.shields.io/badge/Ubuntu-rgb(252, 179, 250)?style=for-the-badge&logo=ubuntu&logoColor=white">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-rgb(232, 118, 245).svg?style=for-the-badge&logo=bootstrap&logoColor=white">   
-<img alt="React" src="https://img.shields.io/badge/react-rgb(255, 212, 246).svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="express" src="https://img.shields.io/badge/express.js-rgb(227, 100, 200).svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%23ffd2ce.svg?style=for-the-badge&logo=mysql&logoColor=140200"/>
-<img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-rgb(245, 120, 184).svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++-rgb(209, 145, 219).svg?style=for-the-badge&logo=c%2B%2B&logoColor=black">
+<img alt="C" src="https://img.shields.io/badge/c-rgb(230, 126, 226).svg?style=for-the-badge&logo=c&logoColor=black">  
+<img alt="ubunto" src="https://img.shields.io/badge/Ubuntu-rgb(252, 179, 250)?style=for-the-badge&logo=ubuntu&logoColor=black">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=black"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=black"/>
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-rgb(232, 118, 245).svg?style=for-the-badge&logo=bootstrap&logoColor=black">   
+<img alt="React" src="https://img.shields.io/badge/react-rgb(255, 212, 246).svg?style=for-the-badge&logo=react&logoColor=black"/>
+<img alt="express" src="https://img.shields.io/badge/express.js-rgb(227, 100, 200).svg?style=for-the-badge&logo=express&logoColor=black">
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%23ffd2ce.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-rgb(245, 120, 184).svg?style=for-the-badge&logo=mongodb&logoColor=black"/>
 <img alt="jwt" src="https://img.shields.io/badge/JWT-rgb(255, 153, 205)?style=for-the-badge&logo=JSON%20web%20tokens">
-<img alt="jquery" src="https://img.shields.io/badge/jquery-rgb(230, 145, 188).svg?style=for-the-badge&logo=jquery&logoColor=white">
-<img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179)?style=for-the-badge&logo=socket.io&badgeColor=010101">
+<img alt="jquery" src="https://img.shields.io/badge/jquery-rgb(230, 145, 188).svg?style=for-the-badge&logo=jquery&logoColor=black">
+<img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
 
   </p>
     
