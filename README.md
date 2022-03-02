@@ -7,11 +7,13 @@ let passion :'Cloud Architect';
 ```
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    
+<br>
+<p align="center">
+<a href="https://github.com/kainatsana">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c&layout=compact&langs_count=8" />
 
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=kainatSana&show_icons=true&theme=tokyonight" 
-/>
 
 <!--
 **KainatSana/KainatSana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
