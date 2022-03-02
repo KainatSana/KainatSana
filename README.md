@@ -10,24 +10,24 @@ let hobbies :'Journel,Reading & Cooking';
 ```
 
 <p align="center">
-<img alt="Azure" src="https://img.shields.io/badge/azure-%23fca9ae.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>    
-<img alt="terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-<img alt="Node js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" >
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">  
-<img alt="ubunto" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img alt="Azure" src="https://img.shields.io/badge/azure-rgb(237, 171, 247).svg?style=for-the-badge&logo=microsoftazure&logoColor=black"/>    
+<img alt="terraform" src="https://img.shields.io/badge/terraform-rgb(251, 222, 255).svg?style=for-the-badge&logo=terraform&logoColor=black">
+<img alt="Python" src="https://img.shields.io/badge/python-rgb(245, 132, 188)?style=for-the-badge&logo=python&logoColor=black">
+<img alt=".net" src="https://img.shields.io/badge/.NET-rgb(212, 148, 180)?style=for-the-badge&logo=.net&logoColor=black">
+<img alt="Node js" src="https://img.shields.io/badge/node.js-rgb(232, 202, 214)?style=for-the-badge&logo=node.js&logoColor=black" >
+<img alt="C++" src="https://img.shields.io/badge/c++-rgb(209, 145, 219).svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img alt="C" src="https://img.shields.io/badge/c-rgb(230, 126, 226).svg?style=for-the-badge&logo=c&logoColor=white">  
+<img alt="ubunto" src="https://img.shields.io/badge/Ubuntu-rgb(252, 179, 250)?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">   
-<img alt="React" src="https://img.shields.io/badge/react-%23f2ca61.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-rgb(232, 118, 245).svg?style=for-the-badge&logo=bootstrap&logoColor=white">   
+<img alt="React" src="https://img.shields.io/badge/react-rgb(255, 212, 246).svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="express" src="https://img.shields.io/badge/express.js-rgb(227, 100, 200).svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%23ffd2ce.svg?style=for-the-badge&logo=mysql&logoColor=140200"/>
-<img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="jwt" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-<img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
-<img alt="socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+<img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-rgb(245, 120, 184).svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="jwt" src="https://img.shields.io/badge/JWT-rgb(255, 153, 205)?style=for-the-badge&logo=JSON%20web%20tokens">
+<img alt="jquery" src="https://img.shields.io/badge/jquery-rgb(230, 145, 188).svg?style=for-the-badge&logo=jquery&logoColor=white">
+<img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179)?style=for-the-badge&logo=socket.io&badgeColor=010101">
 
   </p>
     
