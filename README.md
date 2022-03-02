@@ -30,6 +30,11 @@ let hobbies :'Journel,Reading & Cooking';
 <img alt="jquery" src="https://img.shields.io/badge/jquery-rgb(230, 145, 188).svg?style=for-the-badge&logo=jquery&logoColor=black">
 <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-rgb(204, 96, 179).svg?style=for-the-badge&logo=socket.io&badgeColor=black">
 </p>
+<img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="150" height="150" align="right"/>
+
+### Facts about me:
+I am passionate about empowering females in STEM.I am founder of Mcirosoft Learn Student Ambassador UCP Chapter and Parwaaz-e-Zan( A project to train females self Defence).
+I can say I am a night owl:owl:and love to read,speak and write.I can't exist without coffee :coffee: :see_no_evil:
 <div>
    
 - I’m currently working on myself
@@ -46,7 +51,7 @@ let hobbies :'Journel,Reading & Cooking';
 <a href="https://www.instagram.com/sana.universe/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://dev.to/sanakainat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
-<img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="200" height="200" align="right"/>
+
 </div>
 <p align="center">
 <a href="https://github.com/kainatsana">
