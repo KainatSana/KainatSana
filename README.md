@@ -32,8 +32,16 @@ let hobbies :'Journaling,Reading & Cooking';
 
 ### Facts about me:
 I am passionate about empowering females in STEM.I am founder of Mcirosoft Learn Student Ambassador UCP Chapter and Parwaaz-e-Zan( A project to train females self Defence).
-I can say I am a night owl:owl:and love to read,speak and write.I can't exist without coffee :coffee: :see_no_evil:
-    
+I can say I am a night owl:owl:and love to read,speak and write.I can't exist without coffee :coffee: :see_no_evil:   
+### Stats
+<p>
+<a href="https://github.com/kainatsana">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c" />
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c&layout=compact&langs_count=8" />
+    </a>
+    </p>
+<br> 
+
 ### Find me all around the web:
 
 <p align="left">
@@ -42,14 +50,6 @@ I can say I am a night owl:owl:and love to read,speak and write.I can't exist wi
 <a href="https://www.instagram.com/sana.universe/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://dev.to/sanakainat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
-
-<p align="center">
-<a href="https://github.com/kainatsana">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kainatSana&count_private=true&show_icons=true&bg_color=f9e6ff&text_color=000000&title_color=4a0735&border_color=faceff&icon_color=a33b9c&layout=compact&langs_count=8" />
-    </a>
-    </p>
-<br>  
 
 <!--### Watch my contribution graph get eaten by the snake 🐍-->
 
