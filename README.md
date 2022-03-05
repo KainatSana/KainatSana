@@ -32,7 +32,7 @@ let hobbies :'Journaling,Reading & Cooking';
 
 ### Facts about me:
 I am passionate about empowering females in STEM.I am founder of Mcirosoft Learn Student Ambassador UCP Chapter and Parwaaz-e-Zan( A project to train females self Defence).
-I can say I am a night owl:owl:and love to read,speak and write.I can't exist without coffee :coffee: :see_no_evil:   
+I can say I am a night owl:owl:and love to read,speak and write.I can not exist without coffee :coffee: :see_no_evil:   
 ### Stats
 <p>
 <a href="https://github.com/kainatsana">
