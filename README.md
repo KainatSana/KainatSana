@@ -31,9 +31,9 @@ let hobbies :'Journaling,Reading & Cooking';
 <img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="150" height="150" align="right"/>
 
 ### Facts about me:
-<p>On a mission to empower females in STEM.</p>
-<p>Founder of Microsoft Learn Student Ambassador UCP Chapter | Parwaaz-e-Zan( A project to train females self Defence)</p>
-<p>I am a night owl:owl:and love to read,speak and write.I'll go exinct without coffee :coffee: :see_no_evil: </p>  
+On a mission to empower females in STEM.<br>
+Founder of Microsoft Learn Student Ambassador UCP Chapter | Parwaaz-e-Zan( A project to train females self Defence)<br>
+I might exinct without coffee :coffee: :see_no_evil: 
 ### Stats
 <p>
 <a href="https://github.com/kainatsana">
