@@ -5,7 +5,7 @@
 ```js
 const name : 'Sana Kainat';
 let role:'Student';
-let passion :'Cloud Architect';
+let passion :'Cloud Security Engineer';
 let hobbies :'Journaling,Reading & Cooking';
 ```
     
