@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sana Kainat<img src="https://github.com/KainatSana/KainatSana/blob/main/sparkle.svg" width="35px" alt="sparkle" /></h1>
+<h1 align="center">Salam!<img src="https://github.com/KainatSana/KainatSana/blob/main/sparkle.svg" width="35px" alt="sparkle" /></h1>
 
 
 
@@ -31,8 +31,9 @@ let hobbies :'Journaling,Reading & Cooking';
 <img src="https://github.com/KainatSana/KainatSana/blob/main/giphy2.gif" width="150" height="150" align="right"/>
 
 ### Facts about me:
-On a mission to empower females in STEM.<br>
-Founder of Microsoft Learn Student Ambassador UCP Chapter | Parwaaz-e-Zan( A project to train females self Defence)<br>
+This GIF is me :see_no_evil:<br>
+Girl is on a mission to empower females in STEM.<br>
+Founder of Microsoft Learn Student Ambassador UCP Chapter & Parwaaz-e-Zan( A project to train females Self Defence)<br>
 I might exinct without coffee :coffee: :see_no_evil: 
 ### Stats
 <p>
