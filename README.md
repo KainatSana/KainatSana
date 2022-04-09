@@ -34,7 +34,7 @@ let hobbies :'Journaling,Reading & Cooking';
 This GIF is me :see_no_evil:<br>
 Girl is on a mission to empower females in STEM.<br>
 Founder of Microsoft Learn Student Ambassador UCP Chapter & Parwaaz-e-Zan( A project to train females Self Defence)<br>
-I might exinct without coffee :coffee: :see_no_evil: 
+I might go extinct without coffee :coffee: :see_no_evil: 
 ### Stats
 <p>
 <a href="https://github.com/kainatsana">
