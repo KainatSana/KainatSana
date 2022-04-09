@@ -1,4 +1,4 @@
-<h1 align="center">Salam!<img src="https://github.com/KainatSana/KainatSana/blob/main/sparkle.svg" width="35px" alt="sparkle" /></h1>
+<h1 align="center">Hi!<img src="https://github.com/KainatSana/KainatSana/blob/main/sparkle.svg" width="35px" alt="sparkle" /></h1>
 
 
 
