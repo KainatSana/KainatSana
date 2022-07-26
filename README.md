@@ -5,7 +5,7 @@
 ```js
 const name : 'Sana Kainat';
 let role:'Student';
-let passion :'Cloud Security Engineer';
+let passion :'DevOps Engineer';
 let hobbies :'Journaling,Reading & Cooking';
 ```
     
@@ -49,7 +49,7 @@ I might go extinct without coffee :coffee: :see_no_evil:
 <p align="left">
 <a href="https://twitter.com/SanaUniverse20" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/sana-kainat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png/" alt="" height="30" /></a>
-<a href="https://www.instagram.com/sana.universe/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/theclouddiva/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
 <a href="https://dev.to/sanakainat" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
 </p>
 
